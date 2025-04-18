@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!  
+# 👋 Olá, eu sou Alfredo!  
 
 🎓 Estudante de Informática | 💻 Aprendendo Java e Programação Web  
 
